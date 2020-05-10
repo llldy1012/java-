@@ -1,0 +1,5 @@
+Department{D_id='D001', Dname='部门1', manager='Manager1', office='D101', foundTime='2020年04月09日'}
+Department{D_id='D003', Dname='部门3', manager='Manager3', office='D103', foundTime='2020年04月09日'}
+Department{D_id='D004', Dname='部门4', manager='Manager4', office='D104', foundTime='2020年04月09日'}
+Department{D_id='D005', Dname='部门5', manager='Manager5', office='D105', foundTime='2020年04月09日'}
+Department{D_id='D006', Dname='部门6', manager='经理6', office='A505', foundTime='2020年04月09日'}
